@@ -18,7 +18,7 @@ A gallery of my robotics and engineering projects.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="#"><img src="LINK_TO_YOUR_ROBOT_IMAGE.jpg" width="100%" /></a>
+      <video src="Husky.mp4" width="100%" autoplay loop muted playsinline></video>
       <br />
       <b>Autonomous UGV Navigation</b>
       <br />
@@ -28,7 +28,7 @@ A gallery of my robotics and engineering projects.
       <sub><b>Tags:</b> ROS 2, C++, Python, MoCap, YOLOv8</sub>
     </td>
     <td align="center" width="50%">
-      <a href="#"><img src="LINK_TO_YOUR_DRONE_GIF.gif" width="100%" /></a>
+      <video src="drone.mp4" width="100%" autoplay loop muted playsinline></video>
       <br />
       <b>UAV HITL Simulation</b>
       <br />
@@ -39,7 +39,6 @@ A gallery of my robotics and engineering projects.
     </td>
   </tr>
 </table>
-
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,matlab,arduino,docker,raspberrypi,ros,ubuntu,vscode,github&theme=light)](https://skillicons.dev)
 
