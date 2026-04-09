@@ -5,12 +5,11 @@ Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 [LinkedIn](https://www.linkedin.com/in/vladimirgunichev/?skipRedirect=true) | [Email](mailto:vladimir.gunichev@gmail.com)
 
 ## About Me
-- 🤖 Undergraduate Research Assistant at SCUBA Lab, FAU working on autonomous navigation.
-- 🚀 Building an autonomous, stair-climbing delivery cart for my senior design project.
-- 🏄‍♂️ Co-Founder of Apex Auto Detail and fabricator of custom LED surfboards. 
-- 🛠️ Bridging the gap between complex mechanical hardware and intelligent software.
+- Undergraduate Research Assistant at SCUBA Lab, FAU working on autonomous navigation.
+- Building an autonomous, stair-climbing delivery cart for my senior design project.
+- Founder of PLAYA BOARDS LLC: custom LED surfboards and signs brand. 
 
-## 📝 Publications
+##  Publications
 **[Accelerating Early-Stage Robot Navigation Development with Motion Capture and ROS](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1112&context=fcrar)** *Co-Author, FCRAR (Fall 2024 – Spring 2025)* > Presented a ground-truth localization framework for the Clearpath Husky UGV using OptiTrack MoCap + ROS 2; demonstrated PD controller superiority over P controllers in waypoint navigation accuracy.
 
 ## Projects - showcase
