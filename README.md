@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vladimir
+# Hi, I'm Vladimir
 
 Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 
