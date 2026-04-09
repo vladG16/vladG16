@@ -2,7 +2,7 @@
 
 Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_GH_USERNAME) | [Email](mailto:vladimir.gunichev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vladimirgunichev/?skipRedirect=true) | [Email](mailto:vladimir.gunichev@gmail.com)
 
 ## About Me
 - 🤖 Undergraduate Research Assistant at SCUBA Lab, FAU working on autonomous navigation.
