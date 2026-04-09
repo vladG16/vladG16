@@ -56,12 +56,3 @@ A three-slot gallery of my robotics and engineering projects.
 
 Also comfortable with: ROS 1 & ROS 2 (Noetic, Humble, Jazzy), YOLOv8, SolidWorks, ANSYS, Simulink, and PID/PD Controller Design.
 
-## Stats and dev activity
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&theme=gruvbox&show_icons=true&hide_border=true" alt="Vladimir's GitHub Stats" />
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkyeXZyOHV1cjRsdWk2bXkwc25sZHFxdGFpYXFtd2Q3YjZ1aXZwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxI1G5PNC5esyNlI59/giphy.gif" alt="Thank You" width="400"/>
-</div>
