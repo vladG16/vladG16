@@ -43,4 +43,3 @@ A gallery of my robotics and engineering projects.
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,matlab,arduino,docker,raspberrypi,ros,ubuntu,vscode,github&theme=light)](https://skillicons.dev)
 
 Also comfortable with: ROS 1 & ROS 2 (Noetic, Humble, Jazzy), YOLOv8, SolidWorks, ANSYS, Simulink, and PID/PD Controller Design.
-
