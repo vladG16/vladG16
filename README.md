@@ -18,8 +18,7 @@ A gallery of my robotics and engineering projects.
 <table>
   <tr>
     <td align="center" width="50%">
-      <video src="
-" width="100%" autoplay loop muted playsinline></video>
+      <video src="PASTE_HUSKY_RAW_LINK_HERE" width="100%" autoplay loop muted playsinline></video>
       <br />
       <b>Autonomous UGV Navigation</b>
       <br />
@@ -29,8 +28,7 @@ A gallery of my robotics and engineering projects.
       <sub><b>Tags:</b> ROS 2, C++, Python, MoCap, YOLOv8</sub>
     </td>
     <td align="center" width="50%">
-      <video src="
-" width="100%" autoplay loop muted playsinline></video>
+      <video src="" width="100%" autoplay loop muted playsinline></video>
       <br />
       <b>UAV HITL Simulation</b>
       <br />
