@@ -39,6 +39,7 @@ A gallery of my robotics and engineering projects.
     </td>
   </tr>
 </table>
+
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,matlab,arduino,docker,raspberrypi,ros,ubuntu,vscode,github&theme=light)](https://skillicons.dev)
 
