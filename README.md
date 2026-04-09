@@ -1,4 +1,4 @@
-# Hi , I'm Vladimir
+# Hi 👋, I'm Vladimir
 
 Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 
@@ -13,12 +13,12 @@ Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 **[Accelerating Early-Stage Robot Navigation Development with Motion Capture and ROS](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1112&context=fcrar)** *Co-Author, FCRAR (Fall 2024 – Spring 2025)* > Presented a ground-truth localization framework for the Clearpath Husky UGV using OptiTrack MoCap + ROS 2; demonstrated PD controller superiority over P controllers in waypoint navigation accuracy.
 
 ## Projects - showcase
-A three-slot gallery of my robotics and engineering projects.
+A gallery of my robotics and engineering projects.
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="#"><img src="https://via.placeholder.com/1280x720.png?text=Husky+A200+UGV" width="100%" /></a>
+    <td align="center" width="50%">
+      <a href="#"><img src="LINK_TO_YOUR_ROBOT_IMAGE.jpg" width="100%" /></a>
       <br />
       <b>Autonomous UGV Navigation</b>
       <br />
@@ -27,18 +27,8 @@ A three-slot gallery of my robotics and engineering projects.
       <br />
       <sub><b>Tags:</b> ROS 2, C++, Python, MoCap, YOLOv8</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="#"><img src="https://via.placeholder.com/1280x720.png?text=Stair-Climbing+Robot" width="100%" /></a>
-      <br />
-      <b>Stair-Climbing Robot</b>
-      <br />
-      50-lb-capacity delivery robot with spoked wheels & autonomous person-following.<br/>
-      <a href="#">Repo</a> · <a href="#">Demo</a>
-      <br />
-      <sub><b>Tags:</b> ZED Stereo Camera, LiDAR, YOLOv8, SolidWorks</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#"><img src="https://via.placeholder.com/1280x720.png?text=UAV+HITL+Simulation" width="100%" /></a>
+    <td align="center" width="50%">
+      <a href="#"><img src="LINK_TO_YOUR_DRONE_GIF.gif" width="100%" /></a>
       <br />
       <b>UAV HITL Simulation</b>
       <br />
