@@ -10,6 +10,9 @@ Mechanical Engineering Student @ FAU | Robotics & Autonomous Systems
 - 🏄‍♂️ Co-Founder of Apex Auto Detail and fabricator of custom LED surfboards. 
 - 🛠️ Bridging the gap between complex mechanical hardware and intelligent software.
 
+## 📝 Publications
+**[Accelerating Early-Stage Robot Navigation Development with Motion Capture and ROS](YOUR_PAPER_LINK_HERE)** *Co-Author, FCRAR (Fall 2024 – Spring 2025)* > Presented a ground-truth localization framework for the Clearpath Husky UGV using OptiTrack MoCap + ROS 2; demonstrated PD controller superiority over P controllers in waypoint navigation accuracy.
+
 ## Projects - showcase
 A three-slot gallery of my robotics and engineering projects.
 
@@ -21,7 +24,7 @@ A three-slot gallery of my robotics and engineering projects.
       <b>Autonomous UGV Navigation</b>
       <br />
       Ground-truth framework & ROS 2 controller benchmarking for Clearpath Husky.<br/>
-      <a href="#">Repo</a> · <a href="#">Publication</a>
+      <a href="#">Repo</a> · <a href="YOUR_PAPER_LINK_HERE">Publication</a>
       <br />
       <sub><b>Tags:</b> ROS 2, C++, Python, MoCap, YOLOv8</sub>
     </td>
